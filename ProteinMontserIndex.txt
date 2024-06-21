@@ -5,33 +5,35 @@
 // # = Comment
 
 0. ---IMPORTANT---:
-    0.1 Timer:
-    0.1.1 https://protein.monster/tariff/ [the physical therapy causes pain]
-    
-    0.2 Start of the Protein Monster entreprise ARG: # see https://protein.monster/frame/
-    0.2.1 https://protein.monster/mantra/ [something happened on the ocean floor]
 
+    0.1 Timer:
+        0.1.1 https://protein.monster/tariff/ [the physical therapy causes pain] # Fake timer (it resets every time you reload the page)
+    
+    0.2 Start of the Protein Monster enterprise ARG: # see https://protein.monster/frame/
+        0.2.1 https://protein.monster/mantra/ [something happened on the ocean floor]
 
 
 1. ---Pages Hub---:
+
     1.1 https://protein.monster/interim/ [a false name and a stolen credit card]
 
 
 2. ---"well, it is just another..."---:
+
     2.1 "saturday night":
         Text:
-        2.1.1 https://protein.monster/membrane/ [research animals recuperating from arduous projects]
-        2.1.2 https://protein.monster/saturation/ [the plastic monarch butterfly earrings]
+            2.1.1 https://protein.monster/membrane/ [research animals recuperating from arduous projects]
+            2.1.2 https://protein.monster/saturation/ [the plastic monarch butterfly earrings]
         Funny:
-        2.1.3 https://protein.monster/sewer/ [not my french fries]
+            2.1.3 https://protein.monster/sewer/ [not my french fries]
         2.1.4 Pages Hub:
-        https://protein.monster/polyurethane/ [three people got up and walked out]
+            https://protein.monster/polyurethane/ [three people got up and walked out]
         2.1.5 Buttons:
-        https://protein.monster/typhoon/ [he who has no name]
+            https://protein.monster/typhoon/ [he who has no name]
         2.1.6 Image:
-        https://protein.monster/crawl/ [show me your fuzzy-wuzzy]
+            https://protein.monster/crawl/ [show me your fuzzy-wuzzy]
         2.1.7 Game:
-        https://protein.monster/liminal/ [anybody home?] # Unity game
+            https://protein.monster/liminal/ [anybody home?] # Unity game
 
     2.2 "day...":
         "looking for my beautiful wife":
@@ -47,59 +49,94 @@
 3. ---Text---:
 
     3.1 Funny:
-    3.1.1 https://protein.monster/assassin/ [someone else in the car]
+        3.1.1 https://protein.monster/assassin/ [someone else in the car]
 
     3.2 Animal:
-    3.2.1 https://protein.monster/ferret/ [no moving hands] # Animal Description
-    3.2.2 https://protein.monster/relay/ [i don't want these benches] # Chill music + Birds and letters
+        3.2.1 https://protein.monster/ferret/ [no moving hands] # Animal Description
+        3.2.2 https://protein.monster/relay/ [i don't want these benches] # Chill music + Birds and letters
 
     3.3 Human Description:
-    3.3.1 https://protein.monster/timbre/ [incentives to remain in this country]
+        3.3.1 https://protein.monster/timbre/ [incentives to remain in this country]
 
     3.4 Nudity / NSFW:
-    3.4.1 https://protein.monster/after/ [you'll fit on the sofa]
-    3.4.2 https://protein.monster/tandem/ [in the morning, early, he was gone]
-    3.4.3 https://protein.monster/spider/ [i had no choice but to shoot him]
+        3.4.1 https://protein.monster/after/ [you'll fit on the sofa]
+        3.4.2 https://protein.monster/tandem/ [in the morning, early, he was gone]
+        3.4.3 https://protein.monster/spider/ [i had no choice but to shoot him]
+        3.4.4 https://protein.monster/cooler/ [let the moment cohere]
 
     3.5 Non-sense Text:
-    3.5.1 https://protein.monster/limit/ [The quarterly earnings materials will be available at approximately 6:00 a.m. CT on the date of release.]
-    3.5.2 https://protein.monster/shoulder/ [a hat and floppy booties]
+        3.5.1 https://protein.monster/limit/ [The quarterly earnings materials will be available at approximately 6:00 a.m. CT on the date of release.]
+        3.5.2 https://protein.monster/shoulder/ [a hat and floppy booties]
 
     3.6 Mysterious Text:
-    3.6.1 https://protein.monster/device/ [because you're stupid, man]
+        3.6.1 https://protein.monster/device/ [because you're stupid, man]
 
     3.7 2000's style:
-    3.7.1 https://protein.monster/parse/ [mosquitoes in swarms]
+        3.7.1 https://protein.monster/parse/ [mosquitoes in swarms]
+        3.7.2 https://protein.monster/emu/ [that many sequence grids]
+        3.7.3 https://protein.monster/plush/ [blank in the fossil record]
 
 
 4. ---Voice / Music---:
+
     4.1 Human speaking:
-    4.1.1 https://protein.monster/train/ [a head lifts then drops] # Email: bollywood@protein.monster
+        4.1.1 https://protein.monster/train/ [a head lifts then drops] # Email: bollywood@protein.monster
 
     4.2 Music:
-    4.2.1 https://protein.monster/pitch/ [this is how i survive]
+        4.2.1 https://protein.monster/pitch/ [this is how i survive]
 
 
 5. ---Video---:
+
     5.1 3D human animation:
-    5.1.1 https://protein.monster/medicine/ [trying to adress the illness]
+        5.1.1 https://protein.monster/medicine/ [trying to adress the illness]
 
     5.2 Animal:
-    5.2.1 https://protein.monster/bridge/ [an architect, an artist, a sad man]
-    5.2.2 https://protein.monster/anesthetic/ [the heat pressed into metal and glass]
-    5.2.3 https://protein.monster/atlas/ [i tell the truth about people]
-    5.2.4 https://protein.monster/peninsula/ [i'm saying you can't kill them]
+        5.2.1 https://protein.monster/bridge/ [an architect, an artist, a sad man]
+        5.2.2 https://protein.monster/anesthetic/ [the heat pressed into metal and glass]
+        5.2.3 https://protein.monster/atlas/ [i tell the truth about people]
+        5.2.4 https://protein.monster/peninsula/ [i'm saying you can't kill them]
+    
+    5.3 Real Life videos:
+        5.3.1 https://protein.monster/simmer/ [birthday rehearsal] # Tennis video and music when you click the yellow button (buttons return randomly to `/prograde` or `/guide`)
+        5.3.2 https://protein.monster/ant/ [fingerprint experts] # "I'm a fat ass ... girl" and "I am, I am, I am protein monster!"
+        5.3.3 https://protein.monster/graph/ [on a mission to the edge of the known universe] # Slime video with music
+
+    5.4 Real life disaster:
+        5.4.1 https://protein.monster/trance/ [primitive android control system]
+        5.4.2 https://protein.monster/habit/ [life-size and in the nude]
 
 
 6. ---Animation---:
+
     6.1 Weird Human Gif:
-    6.1.1 https://protein.monster/tragedy/ [special training in night fighting]
+        6.1.1 https://protein.monster/tragedy/ [special training in night fighting]
+    6.2 "protein monster":
+        6.2.1 https://protein.monster/whale/ [protein.monster/whale/] # balls physics
 
 
 7. ---Other sites parody---:
 
     7.1 Market:
-    7.1.1 https://protein.monster/suite/ [a stack of old newspaper]
+        7.1.1 https://protein.monster/suite/ [a stack of old newspaper]
 
     7.2 Wikipédia:
-    7.2.1 https://protein.monster/frame/ [i haven't seen the blinking woman] # Part of the Protein Monster entreprise ARG
+        7.2.1 https://protein.monster/frame/ [i haven't seen the blinking woman] # Part of the Protein Monster entreprise ARG
+
+    7.3 Internet Archive:
+        7.3.1 https://protein.monster/missive/ [it was what there was between them] # There's a LOT of links 
+
+    7.4 MDN Web Docs:
+        7.4.1 https://protein.monster/enough/ [protein.monster/enough/]
+
+
+8. ---Buttons---:
+
+    8.1 Screamers:
+        8.1.1 https://protein.monster/guide/ [doing a little wobble] # BEWARE SOUND AND VISUAL SCREAMER
+        8.1.2 https://protein.monster/progress/ [nearly weightless] # BEWARE SOUND AND VISUAL SCREAMER
+
+9. ---Games---:
+
+    9.1 Unity game:
+        https://protein.monster/order/ [people know where we live] # VERY laggy game
